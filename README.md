@@ -1,9 +1,9 @@
-Bitext - Public Datasets
-========================
+Bitext - Public Conversational AI Datasets
+==========================================
 
 Overview
 --------
-This repository contains links to all of the publicly available datasets published by [Bitext](www.bitext.com).
+This repository contains links to all of the publicly available Conversational AI datasets published by [Bitext](www.bitext.com).
 
 The current datasets cover synthetic training and evaluation data for NLU engines that power customer service chatbots. We will be adding new datasets regularly, so stay tuned!
 
